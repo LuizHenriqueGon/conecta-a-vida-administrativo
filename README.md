@@ -102,7 +102,7 @@ Abra seu terminal, navegue até a pasta desejada e execute:
 
 ```bash
 # Clone o repositório (caso já não o tenha feito)
-git clone <URL_DO_SEU_REPOSITORIO>
+git clone https://github.com/LuizHenriqueGon/conecta-a-vida-administrativo.git
 
 # Entre no diretório do projeto
 cd conecta-a-vida
@@ -136,7 +136,3 @@ Desenvolvido por **Luiz Henrique**
 \</p\>
 
 © 2026 Conecta à Vida. Todos os direitos reservados.
-
------
-
-Gostaria de aproveitar e já adicionar alguma informação específica sobre o backend que será construído no futuro, ou deixamos o documento focado no Front-end por enquanto?
